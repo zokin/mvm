@@ -1,0 +1,12 @@
+﻿2020-05-18 12:37:47.599 INFO  [9508] [main@87] Logging to: D:\Projects\github\mvm\mvm\gui\log.txt
+2020-05-18 12:37:49.468 ERROR [9508] [io::load_obj@23] Cannot open file [H:\Data\Perfcap\exported\workspace\temp_mesh_optim_output.obj]
+
+2020-05-18 12:37:49.469 WARN  [9508] [io::load_obj@24] 
+2020-05-18 12:38:11.297 INFO  [4812] [main@87] Logging to: D:\Projects\github\mvm\mvm\gui\log.txt
+2020-05-18 12:38:12.384 ERROR [4812] [io::load_obj@23] Cannot open file [H:\Data\Perfcap\exported\workspace\temp_mesh_optim_output.obj]
+
+2020-05-18 12:38:12.384 WARN  [4812] [io::load_obj@24] 
+2020-05-18 12:40:06.666 INFO  [1264] [main@87] Logging to: D:\Projects\github\mvm\mvm\gui\log.txt
+2020-05-18 12:40:07.623 ERROR [1264] [io::load_obj@23] Cannot open file [H:\Data\Perfcap\exported\workspace\temp_mesh_optim_output.obj]
+
+2020-05-18 12:40:07.623 WARN  [1264] [io::load_obj@24] 

@@ -180,9 +180,11 @@ int main(int argc, char** argv)
 	//auto mesh = io::load_mesh("leo_template_optimized.obj");	
 	//auto mesh = io::load_mesh("H:\\Data\\Perfcap\\exported\\frame_0\\animated_mesh.obj");
 	//auto mesh = io::load_mesh("optimized.obj");
-	auto mesh = io::load_mesh("H:\\Data\\Perfcap\\exported\\workspace\\temp_mesh_optim_output.obj");
+	//auto mesh = io::load_mesh("H:\\Data\\Perfcap\\exported\\workspace\\temp_mesh_optim_output.obj");
+	auto mesh = io::load_mesh("C:\\Users\\nzioulis\\Desktop\\output\\temp_mesh_optim_output.obj");
 	auto dense_mesh = io::densify(mesh);
-	auto vps = io::load_viewpoints("H:\\Data\\Perfcap\\exported\\frame_0\\calib.json");
+	//auto vps = io::load_viewpoints("H:\\Data\\Perfcap\\exported\\frame_0\\calib.json");
+	auto vps = io::load_viewpoints("C:\\Users\\nzioulis\\Desktop\\output\\calibration.json"); 
 	ImVec4 clear_color(0.1f, 0.1f, 0.1f, 0.3f);
 	static std::vector<glm::vec3> colors;
 	colors.emplace_back(glm::vec3(dd::colors::OrangeRed[0], dd::colors::OrangeRed[1], dd::colors::OrangeRed[2]));

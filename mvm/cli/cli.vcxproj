@@ -108,7 +108,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(SolutionDir)opt\include;$(SolutionDir)atlas\include;$(SolutionDir)io\include;$(SolutionDir)core\include;$(SolutionDir)ext\CLI;$(SolutionDir)ext\plog;$(SolutionDir)ext;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)opt\include;$(SolutionDir)atlas\include;$(SolutionDir)io\include;$(SolutionDir)core\include;$(SolutionDir)ext\CLI;$(SolutionDir)ext\plog;$(SolutionDir)ext;$(SolutionDir)ext\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>

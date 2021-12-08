@@ -1,0 +1,1 @@
+﻿2020-06-02 18:01:51.573 INFO  [24972] [io::store_image@10] Writing result to C:\Users\nzioulis\Desktop\output\test_opt_charts.png
